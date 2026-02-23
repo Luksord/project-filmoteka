@@ -1,9 +1,9 @@
 {
-  "name": "react-template",
+  "name": "project-barbershop",
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "homepage": "https:/login.github.io/react-template/",
+  "homepage": "https://Luksord.github.io/project-barbershop/",
   "scripts": {
     "dev": "vite",
     "start": "vite",
